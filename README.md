@@ -28,9 +28,6 @@ height="4.340277777777778in"}
     approach is not by replicating minority class but constructing new
     minority class data instance via an algorithm.
 
-```{=html}
-<!-- -->
-```
 -   **Oversampling:** Random Oversampling: Increase the number of
     instances of the minority class by randomly duplicating existing
     instances.
